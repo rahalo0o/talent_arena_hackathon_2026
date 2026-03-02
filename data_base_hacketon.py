@@ -2,7 +2,7 @@ import sqlite3
 from sqlite3 import Error
 import hashlib
 
-DB_PATH = "camera_api_db.db"
+DB_PATH = "camara_api_db.db"
 
 
 def setup_database():
